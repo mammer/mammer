@@ -24,6 +24,8 @@ pipelines with Power BI reporting for a public administration.
   Next.js, Prisma and Auth.js, in French and Arabic, with role-based access for the people who run the club.
 - **[xauusd-price-action-bot](https://github.com/mammer/xauusd-price-action-bot)**: price-action trading rules turned into code,
   with a backtester, a FastAPI backend and a React dashboard. A research project, not financial advice.
+- **[social-programs-observatory](https://github.com/mammer/social-programs-observatory)**: a Flask app and pandas/scikit-learn pipeline
+  that checks social-aid coverage by area, and whether vulnerability ratings depend on where they were made. Runs on generated demo data.
 - **[law-office-manager](https://github.com/mammer/law-office-manager)**: an anonymised site and practice-management panel for a lawyer,
   in Spanish, English and Arabic, written in plain JavaScript.
 
